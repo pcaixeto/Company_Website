@@ -1,0 +1,33 @@
+body {
+    font: 20px Arial, sans-serif ;
+}
+
+.navbar {
+    background-color: #566573 ;
+}
+
+.quem-somos {
+    background-color: #808B96;
+}
+
+.margin {
+    padding-bottom: 50px;
+    padding-top: 10px;
+
+}
+
+.parceiros {
+    background-color: #ABB2B9 ;
+}
+
+.credit_suisse {
+    max-height: 60px;
+}
+
+.servicos {
+    background-color: #D5D8DC;
+}
+
+.bg-footer {
+    background-color: #EAECEE;
+}
